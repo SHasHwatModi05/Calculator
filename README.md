@@ -8,7 +8,7 @@ This project demonstrates core JavaScript concepts such as DOM manipulation, eve
 ## 🚀 Live Demo
 You can view the live project here:  
 
-👉 https://shashwatmodi05.github.io/Calculator
+👉 https://ccaldemoo.netlify.app/
 
 ---
 
